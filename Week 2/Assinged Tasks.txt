@@ -1,0 +1,1 @@
+We have been Assigned Task to learn about MVVM artichectures and State managment.
